@@ -1,7 +1,7 @@
 nomes = ["João", "vitor", "Maria", "Guilherme"]
 for i in nomes:
   print(i)
-fori in range(10):
+for i in range(10):
   print(i)
 contador = 0
 while(contador != 10):
